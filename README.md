@@ -6,7 +6,7 @@
 <p align="left">📚 Hi my name is Rafael, i'm a <b>software engineering student</b> in my second year</p>
 <p align="left">🎮 My Favorite Hobby is playing video games and listen to music 🎵</p>
 <p align="left">🏠 I live at Paraná, São José dos Pinhais</p>
-<p align="left">🤓 I love studying anything that correlates with Computers, that being the Hardware or the Software</p>
+<p align="left">🤓 I love studying anything that correlates with Computers, that being Hardware or Software</p>
 <hr>
 
 <h3 align="left"><u>Tools and Technologies 🛠</u></h3>

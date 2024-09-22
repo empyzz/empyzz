@@ -1,7 +1,8 @@
 <H1 align="center">🐱 Rafael Gonçalves da Silva </H1>
 <hr>
 
-<img align="left" width = "130" height = "130" src="https://github.com/user-attachments/assets/ba8f54f0-96bb-42ab-b56f-69ef63bb138f"/>
+<img align="left" width = "130" height = "130" src="https://github.com/user-attachments/assets/b75c06c2-70d5-43af-976a-72ba8379a5c6"/>
+
 <p align="left">📚 Hi my name is Rafael, i'm a <b>software engineering student</b> in my second year</p>
 <p align="left">🎮 My Favorite Hobby is playing video games and listen to music 🎵</p>
 <p align="left">🏠 I live at Paraná, São José dos Pinhais</p>

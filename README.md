@@ -1,7 +1,7 @@
 <H1 align="center">🐱 Rafael Gonçalves da Silva </H1>
 <hr>
 
-<img align="left" width = "130" height = "130" src="https://github.com/user-attachments/assets/b75c06c2-70d5-43af-976a-72ba8379a5c6"/>
+<img loading="lazy" align="left" width = "130" height = "130" src="https://github.com/user-attachments/assets/b75c06c2-70d5-43af-976a-72ba8379a5c6"/>
 
 <p align="left">📚 Hi my name is Rafael, i'm a <b>software engineering student</b> in my second year</p>
 <p align="left">🎮 My Favorite Hobby is playing video games and listen to music 🎵</p>
@@ -25,10 +25,10 @@
 <hr>
    
 <a href="https://github.com/empyzz/github-readme-stats">
-  <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=empyzz&layout=compact&langs_count=7&theme=dark" />
+  <img loading="lazy" height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=empyzz&layout=compact&langs_count=7&theme=dark" />
 </a>
 <a href="https://github.com/empyzz/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=empyzz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img loading="lazy" height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=empyzz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 </a>
 
 

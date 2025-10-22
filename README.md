@@ -13,22 +13,30 @@
 
 <div>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60" height="60"/> 
-<img width="12" />
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60" height="60"/>
+
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60"/> 
-<img width="12" />  
+
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="60" height="60"/>
-<img width="12" />   
+
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="60" height="60"/>
-<img width="12" />   
+
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/>
-<img width="12" />   
+
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" />
-<img width="12" />   
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60" height="60" />
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"  width="60" height="60" />
+          
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original-wordmark.svg" width="60" height="60" />
+          
 </div>
 <hr>
    
 <a href="https://github.com/empyzz/github-readme-stats">
-  <img loading="lazy" height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=empyzz&layout=compact&langs_count=7&theme=dark" />
+  <img loading="lazy" height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=empyzz&layout=compact&langs_count=7&theme=dark" />
 </a>
 <a href="https://github.com/empyzz/convoychat">
   <img loading="lazy" height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=empyzz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />

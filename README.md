@@ -4,13 +4,13 @@
 
 <br/>
 
-<table>
+<table align="center">
   <tr>
-    <td valign="center">
+    <td align="center">
       <br/>
       <img src="https://github.com/user-attachments/assets/b75c06c2-70d5-43af-976a-72ba8379a5c6" width="150" style="border-radius: 50%;" alt="Rafael's Profile Picture"/>
     </td>
-    <td valign="center">
+    <td align="center">
       <h3>About Me</h3>
       <ul>
         <li>I'm a 4rd-year <b>Software Engineering student</b>.</li>

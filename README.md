@@ -8,12 +8,12 @@
   <tr>
     <td align="center">
       <br/>
-      <img src="https://github.com/user-attachments/assets/b75c06c2-70d5-43af-976a-72ba8379a5c6" width="150" style="border-radius: 50%;" alt="Rafael's Profile Picture"/>
+      <img src="https://github.com/user-attachments/assets/b75c06c2-70d5-43af-976a-72ba8379a5c6" width="150" alt="Rafael's Profile Picture"/>
     </td>
     <td align="center">
       <h3>About Me</h3>
       <ul>
-        <li>I'm a 4rd-year <b>Software Engineering student</b>.</li>
+        <li>I'm a 4th-year <b>Software Engineering student</b>.</li>
         <li>Based in <b>São José dos Pinhais, Paraná</b>.</li>
         <li>I love studying <b>Computer Architecture</b> (Hardware & Software).</li>
         <li><b>Hobbies:</b> Gaming and listening to music.</li>
@@ -33,7 +33,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=black" />
 
   <br/>
   
@@ -47,14 +46,13 @@
   
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-
 </div>
 
   <hr/>
 
 <h2 align="center">Projects & Roadmap</h2>
 
-  <table align="center">
+<table align="center">
     <thead>
       <tr>
         <th>Project / Idea</th>
@@ -64,11 +62,11 @@
     </thead>
     <tbody>
       <tr>
-        <td><b>ERP System</b><br><i>Enterprise resource planning app</i></td>
+        <td><b>Site Portfolio</b><br><i>Personal professional showcase</i></td>
         <td>
-          <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-          <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-          <img src="https://img.shields.io/badge/AvaloniaUI-3F2553?style=flat-square&logo=avalonia&logoColor=white"/>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
         </td>
         <td>
           <img src="https://img.shields.io/badge/Building-FF8800?style=flat-square"/>
@@ -88,13 +86,14 @@
         <td><b>"Powder Game" Clone</b><br><i>Falling particles simulation</i></td>
         <td>
           <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+          <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white"/>
         </td>
         <td>
           <img src="https://img.shields.io/badge/🗓_Planned-blue?style=flat-square"/>
         </td>
       </tr>
       <tr>
-        <td><b>Roblox Game</b></td>
+        <td><b>Roblox Game</b><br><i>Tower Defense game or a Car Customization Game</i></td>
         <td>
           <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/>
           <img src="https://img.shields.io/badge/Roblox_Studio-00A2FF?style=flat-square&logo=roblox&logoColor=white"/>
@@ -104,19 +103,10 @@
         </td>
       </tr>
       <tr>
-        <td><b>File Formatter</b><br><i>AIO media converter for images, video, and audio formats.</i></td>
+        <td><b>Operating System / Linux Distro</b><br><i>OS From Scratch or a distro based on Arch</i></td>
         <td>
-          <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
-        </td>
-        <td>
-          <img src="https://img.shields.io/badge/🗓_Planned-blue?style=flat-square"/>
-        </td>
-      </tr>
-      <tr>
-        <td><b>Operating System</b><br><i>From scratch or Unix-based</i></td>
-        <td>
+          <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
           <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
         </td>
         <td>
           <img src="https://img.shields.io/badge/🗓_Planned-blue?style=flat-square"/>

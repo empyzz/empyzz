@@ -69,7 +69,7 @@
           <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
         </td>
         <td>
-          <img src="https://img.shields.io/badge/Building-FF8800?style=flat-square"/>
+          <img src="https://img.shields.io/badge/Done-00FF00?style=flat-square"/>
         </td>
       </tr>
       <tr>
